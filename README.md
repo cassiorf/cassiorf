@@ -38,4 +38,4 @@ Strong focus on gameplay systems, combat mechanics, and clean architecture using
 - **LinkedIn:** [Cássio Fogarin](https://www.linkedin.com/in/cassio-fogarin/)
 - **Other Projects:** [Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/home)
 - **Itch.io:** [My Profile](https://cassiofogarin.itch.io/)
-- **Resume:** [My Resume](https://www.linkedin.com/in/cassio-fogarin/)
+- **Resume:** [My Resume](https://drive.google.com/file/d/1yB0NZ2rIVgI5JWUGE0GNvXLILxrHXcBb/view?usp=sharing)
