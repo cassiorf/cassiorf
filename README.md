@@ -23,7 +23,7 @@ Strong focus on gameplay systems, combat mechanics, and clean architecture using
 ## 💻️ Projects
 
 - **Save My Human [WIP]:** [Steam Page](https://store.steampowered.com/app/2486530/Save_My_Human/) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/save-my-human?authuser=0) 
-- **Letrax:** [GitHub Repo](https://github.com/cassiorf/letrax) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/letrax?authuser=0)
+- **Letrax:** [Play Store](https://play.google.com/store/apps/details?id=com.curisstudio.letrax) | [GitHub Repo](https://github.com/cassiorf/letrax) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/letrax?authuser=0)
 - **Combat System:** [Itch.io](https://cassiofogarin.itch.io/combat-system) | [GitHub Repo](https://github.com/cassiorf/unity-combat-system) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/unity-combat-system-prototype?authuser=0)
 
 ## 🔌 Offline
