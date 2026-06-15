@@ -10,12 +10,10 @@ Strong focus on gameplay systems, combat mechanics, and clean architecture using
 
 - 🎓 Graduated in Computer Science
 - 🎯 Currently building portfolio projects focused on gameplay and systems
-- 🏆 Project featured at Gamescom Latam
-- 🎤 Speaker on game development careers at university events
 
 ## 🛠 Technical Skills
 
-- **Programming:** Unity, C#, Git, Firebase  
+- **Programming:** Unity, C#, Git, Firebase, Netcode  
 - **Gameplay:** Combat systems, AI behaviors, state machines  
 - **Architecture:** ScriptableObjects, event-driven systems, modular design  
 - **Tools:** Aseprite, Photoshop (supporting skills)
@@ -23,15 +21,16 @@ Strong focus on gameplay systems, combat mechanics, and clean architecture using
 ## 💻️ Projects
 
 - **Save My Human [WIP]:** [Steam Page](https://store.steampowered.com/app/2486530/Save_My_Human/) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/save-my-human?authuser=0) 
-- **Letrax:** [Play Store](https://play.google.com/store/apps/details?id=com.curisstudio.letrax) | [GitHub Repo](https://github.com/cassiorf/letrax) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/letrax?authuser=0)
-- **Combat System:** [Itch.io](https://cassiofogarin.itch.io/combat-system) | [GitHub Repo](https://github.com/cassiorf/unity-combat-system) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/unity-combat-system-prototype?authuser=0)
+- **Combat System:** [Itch.io](https://cassiofogarin.itch.io/combat-system) | [GitHub Repo](https://github.com/cassiorf/unity-combat-system) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/unity-combat-system-prototype)
+- **Local Multiplayer Tic Tac Toe:** [GitHub Repo](https://github.com/cassiorf/multiplayer-tictactoe-game) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/multiplayer-local-tic-tac-toe-game)
+- **Letrax:** [Play Store](https://play.google.com/store/apps/details?id=com.curisstudio.letrax) | [GitHub Repo](https://github.com/cassiorf/letrax) | [In Portfolio](https://sites.google.com/view/cassio-fogarin-portfolio/letrax)
 
 ## 🔌 Offline
 
 - I do CrossFit, swimming, and running (still improving at all of them)
 - Enjoy hands-on activities like drawing, sewing, and woodworking
 - STEAM teacher for 5+ years
-- Former dance instructor and occasional magician at friends' events
+- Occasional dance instructor and magician at friends' events
 
 ## 📬 Contact & Links
 - **Email:** cassio.fogarin@gmail.com
