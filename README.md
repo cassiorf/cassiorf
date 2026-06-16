@@ -13,10 +13,11 @@ Strong focus on gameplay systems, combat mechanics, and clean architecture using
 
 ## 🛠 Technical Skills
 
-- **Programming:** Unity, C#, Git, Firebase, Netcode  
-- **Gameplay:** Combat systems, AI behaviors, state machines  
-- **Architecture:** ScriptableObjects, event-driven systems, modular design  
-- **Tools:** Aseprite, Photoshop (supporting skills)
+- **Gameplay Programming:** Unity, C#, Gameplay Systems, Multiplayer Systems, UI Systems, Input Systems 
+- **Architecture & Systems Design:** State Machines, Event-driven Architecture, Server-authoritative Networking, ScriptableObjects, Object Pooling, Modular Design 
+- **Networking & Services:**  Unity Netcode for GameObjects (NGO), Unity Transport (UDP), Firebase (Push Notifications), Unity Ads (Monetization) 
+- **Data & Technical Design:**  JSON Data Management, Localization Systems, Runtime Data Loading, Network Synchronization 
+- **Tools & Production:** Git, GitHub, Trello, Aseprite, Photoshop, Pixel Art, 2D Animation 
 
 ## 💻️ Projects
 
