@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Cássio 👋</h1>
-  <p>🕹 Unity Game Programmer open to remote international opportunities 🌍</p>
+  <p>🕹 UNITY GAME PROGRAMMER open to remote international opportunities 🌍</p>
 </div>
 
 ## 🙃 About Me
@@ -13,10 +13,9 @@ Strong focus on gameplay systems, combat mechanics, and clean architecture using
 
 ## 🛠 Technical Skills
 
-- **Gameplay Programming:** Unity, C#, Gameplay Systems, Multiplayer Systems, UI Systems, Input Systems, Procedural Generation
-- **Architecture & Systems Design:** State Machines, Event-driven Architecture, Server-authoritative Networking, ScriptableObjects, Object Pooling, Modular Design, Procedural Algorithms, Grid-based Systems
-- **Networking & Services:** Unity Netcode for GameObjects (NGO), Unity Transport (UDP), Firebase (Push Notifications), Unity Ads (Monetization)
-- **Data & Technical Design:** JSON Data Management, Localization Systems, Runtime Data Loading, Network Synchronization, Seed-based Randomization
+- **Gameplay & Systems:** Unity, C#, Gameplay Systems, Multiplayer Systems, Procedural Generation, UI Systems, Input Systems
+- **Architecture & Networking:** State Machines, Event-driven Architecture, Server-authoritative Networking, Modular Design, Object Pooling, ScriptableObjects, Unity Netcode for GameObjects (NGO), Unity Transport (UDP)
+- **Data & Live Services:** Firebase (Push Notifications), Unity Ads (Monetization), JSON Data Management, Localization Systems, Runtime Data Loading, Network Synchronization, Seed-based Randomization
 - **Tools & Production:** Git, GitHub, Trello, Aseprite, Photoshop, Pixel Art, 2D Animation
 
 ## 💻️ Projects
